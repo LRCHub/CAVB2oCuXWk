@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フレンド・オブ・マイン",
+  "base_artist": "Avicii",
+  "createdAt": "2026-02-15T05:42:32.265374Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フレンド・オブ・マイン",
+      "artist": "Avicii/ヴァーガス&ラゴラ",
+      "has_synced": false,
+      "path": "select/pl_01_フレンド・オブ・マイン_Avicii_ヴァーガス&ラゴラ.txt"
+    }
+  ]
+}
